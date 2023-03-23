@@ -8,3 +8,13 @@
 	url = https://github.com/eduardszoecs/esmisc
 	shallow = true
 	registered = true
+[submodule "rfieldclimate"]
+	path = rfieldclimate
+	url = https://github.com/cran/rfieldclimate
+	shallow = true
+	registered = true
+[submodule "rzentra"]
+	path = rzentra
+	url = https://github.com/cran/rzentra
+	shallow = true
+	registered = true
